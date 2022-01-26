@@ -1,6 +1,5 @@
 Spotify clone based on the following technologies:
 - Next.js
-- React.js
 - TailwindCSS
 - Recoil
 - Next.auth
